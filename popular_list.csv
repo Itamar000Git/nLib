@@ -1,0 +1,11 @@
+title,author,is_loaned,copies,total_copies,genre,year
+1984,George Orwell,Yes,5,5,Dystopian,1949
+A Game of Thrones,George R.R. Martin,Yes,5,5,Fantasy,1996
+The Hobbit,J.R.R. Tolkien,Yes,4,4,Fantasy,1937
+Mistborn: The Final Empire,Brandon Sanderson,Yes,4,4,Fantasy,2006
+Pride and Prejudice,Jane Austen,Yes,3,3,Romance,1813
+Beloved,Toni Morrison,Yes,3,3,Historical Fiction,1987
+Heart of Darkness,Joseph Conrad,Yes,3,3,Adventure,1899
+To Kill a Mockingbird,Harper Lee,Yes,2,2,Fiction,1960
+Anna Karenina,Leo Tolstoy,Yes,2,2,Fiction,1877
+Slaughterhouse-Five,Kurt Vonnegut,Yes,2,2,Science Fiction,1969

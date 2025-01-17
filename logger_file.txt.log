@@ -1,0 +1,56 @@
+2025-01-16 19:49:40,854 - INFO - Calling function 'loan_book' with args=(<LibraryManager.Library object at 0x0000011937C33520>, 'War an Peace'), kwargs={}
+2025-01-16 19:49:40,888 - DEBUG - remove book War an Peace successfully
+2025-01-16 19:49:40,888 - DEBUG - Book 'War an Peace' added successfully.
+2025-01-16 19:49:40,890 - INFO - Function 'loan_book' returned True
+2025-01-16 19:49:47,159 - INFO - Calling function 'loan_book' with args=(<LibraryManager.Library object at 0x0000011937C33520>, 'War an Peace'), kwargs={}
+2025-01-16 19:49:47,188 - DEBUG - remove book War an Peace successfully
+2025-01-16 19:49:47,195 - DEBUG - Book 'War an Peace' added successfully.
+2025-01-16 19:49:47,195 - INFO - Function 'loan_book' returned True
+2025-01-16 19:49:54,637 - INFO - Calling function 'loan_book' with args=(<LibraryManager.Library object at 0x0000011937C33520>, 'War an Peace'), kwargs={}
+2025-01-16 19:49:54,649 - INFO - Function 'loan_book' returned False
+2025-01-16 19:53:16,650 - INFO - Calling function 'loan_book' with args=(<LibraryManager.Library object at 0x000001D35A113520>, 'War an Peace'), kwargs={}
+2025-01-16 19:53:16,664 - DEBUG - remove book War an Peace successfully
+2025-01-16 19:53:16,664 - DEBUG - Book 'War an Peace' added successfully.
+2025-01-16 19:53:16,664 - INFO - Function 'loan_book' returned True
+2025-01-16 19:53:23,293 - INFO - Calling function 'loan_book' with args=(<LibraryManager.Library object at 0x000001D35A113520>, 'War an Peace'), kwargs={}
+2025-01-16 19:53:23,317 - DEBUG - remove book War an Peace successfully
+2025-01-16 19:53:23,325 - DEBUG - Book 'War an Peace' added successfully.
+2025-01-16 19:53:23,326 - INFO - Function 'loan_book' returned True
+2025-01-16 20:02:10,867 - INFO - Calling function 'return_book' with args=(<LibraryManager.Library object at 0x0000021CE6A03520>, 'War an Peace'), kwargs={}
+2025-01-16 20:02:10,881 - DEBUG - Book 'War an Peace' added successfully.
+2025-01-16 20:02:10,882 - DEBUG - remove book War an Peace successfully
+2025-01-16 20:02:10,883 - INFO - Calling function 'loan_book' with args=(<LibraryManager.Library object at 0x0000021CE6A03520>, 'War an Peace'), kwargs={}
+2025-01-16 20:02:10,898 - DEBUG - remove book War an Peace successfully
+2025-01-16 20:02:10,906 - INFO - Function 'loan_book' returned True
+2025-01-16 20:02:10,911 - INFO - Calling function 'add_global_message' with args=(<LibraryManager.Library object at 0x0000021CE6A03520>, 'the book War an Peace is added to our library by None'), kwargs={}
+2025-01-16 20:02:10,912 - INFO - Function 'add_global_message' returned None
+2025-01-16 20:02:10,912 - INFO - Function 'return_book' returned True
+2025-01-16 20:02:58,231 - INFO - Calling function 'return_book' with args=(<LibraryManager.Library object at 0x0000020D867F3520>, 'War an Peace'), kwargs={}
+2025-01-16 20:02:58,247 - DEBUG - Book 'War an Peace' added successfully.
+2025-01-16 20:02:58,250 - DEBUG - remove book War an Peace successfully
+2025-01-16 20:02:58,252 - INFO - Calling function 'add_global_message' with args=(<LibraryManager.Library object at 0x0000020D867F3520>, 'the book War an Peace is added to our library by None'), kwargs={}
+2025-01-16 20:02:58,254 - INFO - Function 'add_global_message' returned None
+2025-01-16 20:02:58,254 - INFO - Function 'return_book' returned True
+2025-01-16 20:03:25,606 - INFO - Calling function 'return_book' with args=(<LibraryManager.Library object at 0x000001A8079D34C0>, 'War an Peace'), kwargs={}
+2025-01-16 20:03:25,618 - DEBUG - remove book War an Peace successfully
+2025-01-16 20:03:25,621 - INFO - Calling function 'add_global_message' with args=(<LibraryManager.Library object at 0x000001A8079D34C0>, 'the book War an Peace is added to our library by None'), kwargs={}
+2025-01-16 20:03:25,622 - INFO - Function 'add_global_message' returned None
+2025-01-16 20:03:25,622 - INFO - Function 'return_book' returned True
+2025-01-16 20:04:00,221 - INFO - Calling function 'loan_book' with args=(<LibraryManager.Library object at 0x000001CC5ED43520>, 'War an Peace'), kwargs={}
+2025-01-16 20:04:00,235 - DEBUG - remove book War an Peace successfully
+2025-01-16 20:04:00,235 - DEBUG - Book 'War an Peace' added successfully.
+2025-01-16 20:04:00,237 - INFO - Function 'loan_book' returned True
+2025-01-16 20:04:14,674 - INFO - Calling function 'loan_book' with args=(<LibraryManager.Library object at 0x000001CC5ED43520>, 'War an Peace'), kwargs={}
+2025-01-16 20:04:14,685 - DEBUG - remove book War an Peace successfully
+2025-01-16 20:04:14,686 - INFO - Function 'loan_book' returned True
+2025-01-16 20:04:55,405 - INFO - Calling function 'return_book' with args=(<LibraryManager.Library object at 0x00000227E60B3520>, 'War an Peace'), kwargs={}
+2025-01-16 20:04:55,425 - DEBUG - Book 'War an Peace' added successfully.
+2025-01-16 20:04:55,426 - DEBUG - remove book War an Peace successfully
+2025-01-16 20:04:55,429 - INFO - Calling function 'add_global_message' with args=(<LibraryManager.Library object at 0x00000227E60B3520>, 'the book War an Peace is added to our library by None'), kwargs={}
+2025-01-16 20:04:55,430 - INFO - Function 'add_global_message' returned None
+2025-01-16 20:04:55,430 - INFO - Function 'return_book' returned True
+2025-01-16 20:16:45,364 - INFO - Calling function 'return_book' with args=(<LibraryManager.Library object at 0x000002211E30BA00>, 'War an Peace'), kwargs={}
+2025-01-16 20:16:45,382 - DEBUG - remove book War an Peace successfully
+2025-01-16 20:16:45,384 - INFO - Calling function 'add_global_message' with args=(<LibraryManager.Library object at 0x000002211E30BA00>, 'the book War an Peace is added to our library by None'), kwargs={}
+2025-01-16 20:16:45,387 - INFO - Function 'add_global_message' returned None
+2025-01-16 20:16:45,387 - INFO - Function 'return_book' returned True
